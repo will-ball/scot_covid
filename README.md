@@ -38,7 +38,7 @@ CaseFatalityRate - Total deaths divided by total positive
 
 ** As of 08/04/2020 The Scottish Government began reporting numbers relating to hospitalisations **
 
-ICU - The number of patients in Intensive Care with a confirmed COVID-19 test
+ICU - The number of patients in Intensive Care with confirmed or suspected COVID-19 test
 
 HospSusConf - Total reported to be in hospital with confirmed or suspected COVID-19
 
