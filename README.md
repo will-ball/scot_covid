@@ -5,10 +5,12 @@ Author: William Ball
 
 Last Update: 29/03/2020
 
-Description: Covid19 case/death data taken from the official ScotGov daily reports
+Description: Covid19 case/death data taken from the official ScotGov daily reports found here:
+https://www.gov.scot/coronavirus-covid-19/
 
 Variables:
-Date
+
+Date - Date on which cases/deaths data are reported (not when tests/deaths occured)
 
 Positive - Total positive
 
@@ -33,3 +35,13 @@ NewDeaths - New deaths per day
 TotalDeaths - Total deaths
 
 CaseFatalityRate - Total deaths divided by total positive
+
+** As of 08/04/2020 The Scottish Government began reporting numbers relating to hospitalisations **
+
+ICU - The number of patients in Intensive Care with a confirmed COVID-19 test
+
+HospSusConf - Total reported to be in hospital with confirmed or suspected COVID-19
+
+IntensRate - Proportion of suspected/confirmed hospitalisations who are in Intensive care (with confirmed case)
+
+HospRate - Proportion of total confirmed cases who are currently in hospital
