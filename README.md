@@ -45,3 +45,4 @@ HospSusConf - Total reported to be in hospital with confirmed or suspected COVID
 IntensRate - Proportion of suspected/confirmed hospitalisations who are in Intensive care (with confirmed case)
 
 HospRate - Proportion of total confirmed cases who are currently in hospital
+*Note: Most testing to date has been on hospitalised patients which is why this number seems so high
