@@ -42,6 +42,12 @@ ICU - The number of patients in Intensive Care with confirmed or suspected COVID
 
 HospSusConf - Total reported to be in hospital with confirmed or suspected COVID-19
 
+** As of 11/04/2020 The Scottish Government produced back-dated figures for ICU & Hospitalisations **
+
+NewICU - The daily change in the number of patients in Intensive care
+
+NewHosp - The daily change in the number of patients in Hospital with confirmed or suspected COVID-19
+
 IntensRate - Proportion of suspected/confirmed hospitalisations who are in Intensive care (with confirmed case)
 
 HospRate - Proportion of total confirmed cases who are currently in hospital
