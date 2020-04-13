@@ -36,6 +36,10 @@ TotalDeaths - Total deaths
 
 CaseFatalityRate - Total deaths divided by total positive
 
+DeathsPerMillion - Total deaths per million of Scottish population
+
+DailyDPMillion - Daily deaths per million of Scottish Population
+
 ** As of 08/04/2020 The Scottish Government began reporting numbers relating to hospitalisations **
 
 ICU - The number of patients in Intensive Care with confirmed or suspected COVID-19 test
